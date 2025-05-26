@@ -1,5 +1,5 @@
 # Partonia
-game with pawns and board.
+game with pawns and board. Currently, IA is very bad. If you see bug, don't be afraid =go to issues !
 
 
 the main menu :
