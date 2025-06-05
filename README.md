@@ -1,6 +1,7 @@
 # Partonia
 game with pawns and board. Currently, now IA is quiet good. If you see bug, don't be afraid =go to issues !
-
+the game is nearly finished, annotation, saved and load games are done.
+the current part must remove some bugs but you can play with them. !
 
 the main menu :
 
