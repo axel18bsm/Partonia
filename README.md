@@ -19,6 +19,7 @@ Setup and options:
 
 ![image](https://github.com/user-attachments/assets/367cbdd0-dc2c-4d57-89c9-fd4ac827d44e)
 
-
+the game is in playing state. You can see annotation, some action about saved games.
+![image](https://github.com/user-attachments/assets/33acfbe2-4ce3-45ba-a6dd-7da5c2bbfe4a)
 
 
